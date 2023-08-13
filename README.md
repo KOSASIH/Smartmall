@@ -33,7 +33,7 @@ Smartmall is at the forefront of the NFT revolution, providing artists a platfor
 
 ## Getting Started
 
-1. Visit [Smartmall](https://www.smartmallnft.com) to create an account or log in if you already have one.
+1. Visit [Smartmall](https://embed.ipfscdn.io/ipfs/bafybeigtqeyfmqkfbdu7ubjlwhtqkdqckvee7waks4uwhmzdfvpfaqzdwm/marketplace-v3.html?contract=0xfBC382ECfD999e19b74eA5C2109393520566558E&chain=%7B%22name%22%3A%22BNB+Smart+Chain+Testnet%22%2C%22chain%22%3A%22BSC%22%2C%22rpc%22%3A%5B%22https%3A%2F%2Fbinance-testnet.rpc.thirdweb.com%2F%24%7BTHIRDWEB_API_KEY%7D%22%5D%2C%22nativeCurrency%22%3A%7B%22name%22%3A%22BNB+Chain+Native+Token%22%2C%22symbol%22%3A%22tBNB%22%2C%22decimals%22%3A18%7D%2C%22shortName%22%3A%22bnbt%22%2C%22chainId%22%3A97%2C%22testnet%22%3Atrue%2C%22slug%22%3A%22binance-testnet%22%2C%22icon%22%3A%7B%22url%22%3A%22ipfs%3A%2F%2FQmcxZHpyJa8T4i63xqjPYrZ6tKrt55tZJpbXcjSDKuKaf9%2Fbinance-coin%2F512.png%22%2C%22height%22%3A512%2C%22width%22%3A512%2C%22format%22%3A%22png%22%7D%7D&clientId=12a9a181f0a9c4e920839c0ff2931318&directListingId=0&primaryColor=purple) to create an account or log in if you already have one.
 2. Browse the diverse range of NFTs available or use search filters to find specific items.
 3. Purchase NFTs using cryptocurrency through secure blockchain transactions.
 4. Manage your collection and engage with the community to share your passion for digital art.
