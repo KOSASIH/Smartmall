@@ -65,7 +65,7 @@ Join our thriving community of digital art enthusiasts:
 - Participate in discussions on our forums
 - Attend virtual events and exhibitions
 - Connect with artists and fellow collectors
-- Stay updated through our newsletter and social media channels
+- Stay updated through our newsletter and social media channels [Discord](https://discord.gg/YvxQyR2R) 
 
 ## FAQ
 
